@@ -3,7 +3,7 @@
   "description": "angular-xeditable - Edit in place for AngularJS",
   "homepage": "https://github.com/davidyaha/meteor-angular-xeditable",
   "author": "David Yahalomi <davidyaha@gmail.com>",
-  "version": "0.0.2",
+  "version": "0.0.1",
   "git": "https://github.com/davidyaha/meteor-angular-xeditable.git",
   "packages": {
       "bower": {
