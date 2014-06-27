@@ -1,0 +1,3 @@
+meteor-angular-xeditable
+========================
+
