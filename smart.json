@@ -1,0 +1,16 @@
+{
+  "name": "angular-xeditable",
+  "description": "angular-xeditable - Edit in place for AngularJS",
+  "homepage": "",
+  "author": "David Yahalomi <davidyaha@gmail.com>",
+  "version": "0.0.1",
+  "git": "",
+  "packages": {
+      "bower": {
+          "version": "0.1.2"
+      }
+  },
+    "bower":{
+        "angular-xeditable": "0.1.8"
+    }
+}
