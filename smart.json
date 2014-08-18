@@ -7,7 +7,7 @@
   "git": "https://github.com/davidyaha/meteor-angular-xeditable.git",
   "packages": {
       "bower": {
-          "version": "0.1.2"
+          "version": "0.1.10"
       }
   },
     "bower":{
